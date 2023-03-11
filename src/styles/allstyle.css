@@ -1,0 +1,21 @@
+.containerplus {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+.card {
+    border: 2px solid black;
+    border-radius: .6rem;
+}
+.card-header {
+    padding: 10px;
+}
+.card-body {
+    padding: 10px;
+}
+.my-2 {
+    margin-top: 0px !important;
+}
+.center {
+    text-align: center;
+}
